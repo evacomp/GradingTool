@@ -1,0 +1,108 @@
+body{
+  background-color: #e6f2ff;
+  color:#004080;
+  font-family:sans-serif;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D98995;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #B7160C;
+  font-size: 5em;
+  font-weight: bold;
+  margin-left: 40%;
+  margin-top: 10%;
+
+}
+
+h2{
+  color: #6D9BC3;
+  font-size: 2em;
+  margin-left: 47%;
+  margin-top: 3%;
+
+}
+
+h3{
+  color: #B7160C;
+  font-size: 2em;
+
+}
+
+h4{
+	color:white;
+	margin-left:15%;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color:white;
+}
+
+/* selected link */
+a:active {
+  color:white;
+}
+
+
+#editar{
+	background-color:#009688;
+	color:white;
+	border-radius: 0.5em;
+    padding: 0.8em 0.8em 0.8em 0.8em;
+}
+
+.MinhasTurmas{
+  background-color: #000066;
+  color:white;
+  display:inline-block;
+  border-radius: 0.5em;
+  padding: 0.8em 0.8em 0.8em 0.8em;
+}
+
+.login {
+	color:white;
+}
+#FCDRALogin {
+    color: #00004d;
+}
+#LoginDots {
+    border-color: #66b3ff;
+    border-width: 10px;
+}
+#Login {
+    color: #004d40;
+}
+.TurmaTag {
+  color: #000066;
+}
+.TurmaTag:link {
+  color: #000066;
+}
+
+.TurmaTag:visited{
+  color: #000066;
+}
+
+
